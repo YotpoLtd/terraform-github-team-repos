@@ -1,3 +1,5 @@
+# This repo is not in use. All code is moved to terraform-github
+
 # terraform-github-team-repos
 A Terraform module which allows you to manage a teams's members and repositories
 
